@@ -11,4 +11,4 @@ The part where the php should be has been indicated clearly with comments.
 
 ## style.css
 
-Replace you style.css with this one.
+Replace your style.css with this one.
